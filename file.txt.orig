@@ -1,6 +1,9 @@
 hi this is practice file.
 first time edited.
+<<<<<<< HEAD
+Feature- second time edited in f1 branch.
+=======
 Feature- edited by f1 
 Feature -  edited by f1 second time.
 Main- second time edited.
-this is for practice ubuntu.
+>>>>>>> main
